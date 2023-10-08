@@ -33,5 +33,5 @@ The data in this repository may have different licenses depending on its sources
 
 ## Contact
 
-For any questions, feedback, or inquiries regarding this data repository, please contact schrittundtritt@immerda.ch
+For any questions, feedback, or inquiries regarding this data repository, please contact aufschrittundtritt@immerda.ch
 We hope this data repository proves to be a valuable resource for your projects and research endeavors.
