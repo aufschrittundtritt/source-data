@@ -1,7 +1,7 @@
 # Data Repository for Collected Sources
 
-This repository serves as a centralized location for storing and managing "open source" data collected from various sources for our project. The data collected here is intended for research, analysis, and reference purposes of the mass surveilance programs of the swiss state.
-by
+This repository serves as a centralized location for storing and managing "open source" data collected from various sources for our project. The data collected here is intended for research, analysis, and reference purposes of the mass surveilance programs by the swiss state and its institutions.
+
 ## Overview
 
 - **Data Sources**: We have collected data from diverse sources, including ...
